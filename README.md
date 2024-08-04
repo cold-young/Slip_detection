@@ -9,3 +9,4 @@ The source code of paper Detection of Slip from Vision and Touch . If you have a
 
 ![alt text](https://github.com/yg19930918VT/Slip_detection/blob/main/Multimedia/img%20dif.png)
 dsf
+sgfs
